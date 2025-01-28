@@ -24,8 +24,7 @@ Welcome to my corner of GitHub, where the coffee is always strong ☕, and the m
 ---
 
 ## 📫 Slide Into My Inbox:  
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/saeedmarefat](https://linkedin.com/in/saeedmarefat)  
+- 📧 Email: saeedmarefat32@gmail.com  
 
 ---
 
