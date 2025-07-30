@@ -93,7 +93,7 @@ me.say_hi()
 > *- Inspired by DevOps philosophy*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saeedmfat/saeedmfat/assets/GuyistalkingaboutDevOpsthroughtheinfinitysymbol.gif" alt="DevOps Animation" width="500"/>
+  <img src="https://github.com/saeedmfat/saeedmfat/assets/devops.gif?raw=true" alt="DevOps Animation" width="400"/>
 </p>
 
 ---
