@@ -70,7 +70,7 @@ me.say_hi()
 ## 🏆 Featured Projects
 
 ### 🐳 Dockerized Web Application
-[![Docker Project](https://img.shields.io/badge/Repo-Dockerized_Web_App-blue?style=for-the-badge&logo=docker)](https://github.com/saeedmfat/docker-webapp)
+[![Docker Project](https://img.shields.io/badge/Repo-Dockerized_Web_App-blue?style=for-the-badge&logo=docker)](https://github.com/saeedmfat/top-50-docker-projects)
 > A containerized web application with Nginx reverse proxy
 
 ### 🤖 CI/CD Pipeline
