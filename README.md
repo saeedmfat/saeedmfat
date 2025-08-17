@@ -64,7 +64,9 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saeedmfat" alt="GitHub Streak" width="90%" loading="lazy" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=saeedmfat&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="90%"/>
+  </a>
 </p>
 
 ## 🏆 Featured Projects
