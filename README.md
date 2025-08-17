@@ -63,36 +63,18 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedmfat&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </p>
 
-
 <p align="center">
   <h3 align="center">🛠️ Tech Stack & Tools</h3>
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; padding: 0.5rem;">
-    <!-- Row 1 -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: clamp(40px, 5vw, 60px); height: auto;"/>
-    </a>
-    <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" style="width: clamp(40px, 5vw, 60px); height: auto;"/>
-    </a>
-    <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="width: clamp(40px, 5vw, 60px); height: auto;"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" style="width: clamp(40px, 5vw, 60px); height: auto;"/>
-    </a>
-    <!-- Row 2 -->
-    <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" style="width: clamp(40px, 5vw, 60px); height: auto;"/>
-    </a>
-    <a href="https://www.vim.org" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" style="width: clamp(40px, 5vw, 60px); height: auto;"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" style="width: clamp(40px, 5vw, 60px); height: auto;"/>
-    </a>
-    <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" style="width: clamp(40px, 5vw, 60px); height: auto;"/>
-    </a>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="28"/>
   </div>
 </p>
 
