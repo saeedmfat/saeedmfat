@@ -63,22 +63,6 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedmfat&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </p>
 
-<p align="center">
-  <h3 align="center">🛠️ Tech Stack & Tools</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="28"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="28"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" height="28"/>
-    <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="28"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" height="28"/>
-    <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" height="28"/>
-  </div>
-</p>
-
-
 ## 🏆 Featured Projects
 
 ### 🐳 Dockerized Web Application
