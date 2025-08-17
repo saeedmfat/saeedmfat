@@ -64,7 +64,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedmfat&theme=radical" alt="GitHub Streak" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedmfat&theme=radical" alt="GitHub Streak" width="90%" loading="lazy" />
 </p>
 
 ## 🏆 Featured Projects
