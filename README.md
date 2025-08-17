@@ -62,13 +62,38 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api?username=saeedmfat&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedmfat&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </p>
-
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=saeedmfat&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="90%"/>
-  </a>
+  <h3 align="center">🛠️ Tech Stack & Tools</h3>
+  <div align="center">
+    <!-- Row 1 -->
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="50" height="50" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" style="margin: 0 10px;"/>
+    </a>
+    <br/>
+    <!-- Row 2 -->
+    <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50" style="margin: 10px 10px;"/>
+    </a>
+    <a href="https://www.vim.org" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="50" height="50" style="margin: 10px 10px;"/>
+    </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" style="margin: 10px 10px;"/>
+    </a>
+    <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50" style="margin: 10px 10px;"/>
+    </a>
+  </div>
 </p>
-
 ## 🏆 Featured Projects
 
 ### 🐳 Dockerized Web Application
