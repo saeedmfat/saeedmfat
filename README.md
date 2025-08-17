@@ -42,7 +42,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-2496ED?style=for-the-badge&logo=ansible&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-232F3E?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 📜 Scripting
@@ -52,7 +51,8 @@ me.say_hi()
 ### 📊 Monitoring
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
+### 📊 Datebase 
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ### 🌱 Currently Learning
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
