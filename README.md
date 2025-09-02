@@ -72,7 +72,7 @@ me.say_hi()
 > A containerized web application with Nginx reverse proxy
 
 ### 🤖 CI/CD Pipeline
-[![CI/CD Project](https://img.shields.io/badge/Repo-CI%2FCD_Pipeline-blue?style=for-the-badge&logo=github-actions)](https://github.com/saeedmfat/cicd-pipeline)
+[![CI/CD Project](https://img.shields.io/badge/Repo-CI%2FCD_Pipeline-blue?style=for-the-badge&logo=github-actions)](https://github.com/saeedmfat/python-basic-ci)
 > Automated build and deployment pipeline using GitHub Actions
 
 ### 🐧 Linux Automation
