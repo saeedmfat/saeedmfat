@@ -66,8 +66,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saeedmfat&theme=radical" alt="GitHub Streak" width="45%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=saeedmfat&theme=radical&row=2&column=3" alt="GitHub Trophies" width="45%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saeedmfat&theme=radical&row=3&column=3" alt="GitHub Trophies" width="45%"/>
 </p>
 
 ## 🏆 Featured Projects
