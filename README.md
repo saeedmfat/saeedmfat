@@ -66,7 +66,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saeedmfat&theme=radical&row=3&column=3" alt="GitHub Trophies" width="45%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saeedmfat&theme=radical&row=1&column=3" alt="GitHub Trophies" width="45%"/>
 </p>
 
 ## 🏆 Featured Projects
