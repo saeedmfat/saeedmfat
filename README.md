@@ -61,8 +61,13 @@ me.say_hi()
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-saeed.vercel.app/api?username=saeedmfat&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats-saeed.vercel.app/api/top-langs/?username=saeedmfat&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats-saeed.vercel.app/api?username=saeedmfat&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats-saeed.vercel.app/api/top-langs/?username=saeedmfat&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saeedmfat&theme=radical" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saeedmfat&theme=radical&row=2&column=3" alt="GitHub Trophies" width="45%"/>
 </p>
 
 ## 🏆 Featured Projects
