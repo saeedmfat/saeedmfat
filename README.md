@@ -52,6 +52,9 @@ me.say_hi()
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+### Logs Management
+![Loki](https://img.shields.io/badge/Loki-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![ELK stack](https://img.shields.io/badge/Logging-ELK%20Stack-informational?style=flat&logo=elasticstack&logoColor=white&color=2bbc8a)
 ### 📊 Datebase 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ### 🌱 Currently Learning
