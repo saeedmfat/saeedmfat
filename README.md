@@ -54,7 +54,9 @@ me.say_hi()
 ![Zabbix](https://img.shields.io/badge/Zabbix-E6522C?style=for-the-badge&logo=Zabbix&logoColor=white)
 ### Logs Management
 ![Loki](https://img.shields.io/badge/Loki-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-Stack-orange?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ### 📊 Datebase 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ### 🌱 Currently Learning
