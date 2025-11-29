@@ -51,10 +51,10 @@ me.say_hi()
 ### 📊 Monitoring and Observability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-E6522C?style=for-the-badge&logo=Zabbix&logoColor=white)
 ### Logs Management
 ![Loki](https://img.shields.io/badge/Loki-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![ELK stack](https://img.shields.io/badge/ELK-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![ELK stack](https://img.shields.io/badge/ELK-009639?style=for-the-badge&logo=ELK&logoColor=white)
 ### 📊 Datebase 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ### 🌱 Currently Learning
