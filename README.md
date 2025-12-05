@@ -110,9 +110,7 @@ me.say_hi()
   <img src="https://komarev.com/ghpvc/?username=saeedmfat&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
----
----
----
+
 # 📁 Project Portfolio & Repository Catalog
 
 *A comprehensive showcase of my DevOps projects, labs, documentation, and learning resources.*
