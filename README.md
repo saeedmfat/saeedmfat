@@ -84,10 +84,6 @@ print(me.mission())
   <img src="https://github-readme-stats-saeed.vercel.app/api/top-langs/?username=saeedmfat&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saeedmfat&theme=radical&row=1&column=6" alt="GitHub Trophies" width="100%"/>
-</p>
-
 ## 🏆 Featured Projects & Production Systems
 
 ### 📚 **Comprehensive DevOps Documentation Hub**
