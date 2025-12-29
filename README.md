@@ -205,5 +205,3 @@ pie title Repository Distribution
 
 ---
 
-*"Automating infrastructure with security at its core"*  
-*Last Updated: $(date +%Y-%m-%d)* | *Total Projects: 37* | *Active: 33*
