@@ -80,12 +80,12 @@ print(me.mission())
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedmfat&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedmfat&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats-saeed.vercel.app/api?username=saeedmfat&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats-saeed.vercel.app/api/top-langs/?username=saeedmfat&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saeedmfat&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saeedmfat&theme=radical&row=1&column=6" alt="GitHub Trophies" width="100%"/>
 </p>
 
 ## 🏆 Featured Projects & Production Systems
