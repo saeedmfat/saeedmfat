@@ -40,6 +40,11 @@ print(me.mission())
 ![Checkov](https://img.shields.io/badge/Checkov-00838F?style=for-the-badge&logo=bridgecrew&logoColor=white)
 ![OPA](https://img.shields.io/badge/Open_Policy_Agent-7D42F8?style=for-the-badge&logo=openpolicyagent&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![DefectDojo](https://img.shields.io/badge/DefectDojo-0A0B0C?style=for-the-badge&logo=owasp&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-5B5B5E?style=for-the-badge&logo=semgrep&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+![OWASP%20ZAP](https://img.shields.io/badge/OWASP_ZAP-2C5F8C?style=for-the-badge&logo=owasp&logoColor=white)
+![Sysdig](https://img.shields.io/badge/Sysdig-7C3F8C?style=for-the-badge&logo=sysdig&logoColor=white)
 
 ### 🔧 **Core DevOps & IaC**
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
