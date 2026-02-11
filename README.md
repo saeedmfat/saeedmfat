@@ -32,8 +32,6 @@ me = DevSecOpsEngineer()
 print(me.mission())
 ```
 
-## 🛠️ Tech Stack & DevSecOps Toolkit
-
 ## 🧠 PLAN – Governance, Policy & Architecture
 
 ![Open Policy Agent](https://img.shields.io/badge/Open_Policy_Agent-7D42F8?style=for-the-badge&logo=openpolicyagent&logoColor=white)
