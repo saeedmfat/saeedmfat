@@ -223,7 +223,6 @@ pie title Repository Distribution
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saeedmfat&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Coding Time" />
 </p>
 
 ---
