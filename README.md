@@ -195,8 +195,6 @@ pie title Repository Distribution
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-marefat-b97992349)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saeedmfat)
 [![Email](https://img.shields.io/badge/Email-saeedmarefatofficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeedmarefatofficial@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/saeedmfat)
-
 ## 💡 DevOps Philosophy
 
 > **"Security isn't a feature, it's a fundamental property of the system."**  
